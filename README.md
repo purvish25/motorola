@@ -43,5 +43,5 @@ This is a simple Spring Boot file server application with RESTful API capabiliti
 2. Run the Docker container:
    ```bash
    docker run -p 8080:8080 motorola-app
-- The application will be accessible at http://localhost:8080/api/files.
+- The application will be accessible at http://localhost:8080/files.
 
